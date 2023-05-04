@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: My name is Nathaniel and yes, I did play basketball.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My passion for the outdoors reignited while living in Atlanta 90 minutes from the southern terminus of the Appalachian Trail. I did quite a few solo backpacking trips on different sections. Backpacking and cycling are my main outdoor hobbies, but I'm always down to try something new. It could be climbing, standup paddleboarding (SUP), or whitewater rafting.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm 6'7", 200cm, and very lanky at 195 lbs, 89kg. The largest size is normally still just a bit too small for me. Can you relate? Then this blog is for you.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+![Me](/assets/img/kayak_camera.jpeg){: .mx-auto.d-block .w-50 :}
