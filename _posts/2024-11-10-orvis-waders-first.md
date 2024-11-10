@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Tall size waders? Orvis is your best bet
-subtitle: Affordable, a long inseam, and a large stockingfoot are possible
+subtitle: Affordable, a long inseam, and a large stockingfoot in one package
 cover-img: /assets/img/orvis-waders-first/cover1.jpg
 thumbnail-img: /assets/img/orvis-waders-first/thumbnail.jpg
 share-img: /assets/img/orvis-waders-first/cover1.jpg
